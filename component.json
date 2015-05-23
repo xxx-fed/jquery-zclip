@@ -1,0 +1,6 @@
+{
+    "repos": "http://steamdev.com/zclip/",
+    "version": "v1.1.1",
+    "name": "jquery-zclip",
+    "main": "jquery.zclip.js"
+}
